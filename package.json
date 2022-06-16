@@ -16,7 +16,7 @@
     "next-plausible": "3.2.0"
   },
   "devDependencies": {
-    "@types/react": "17.0.46",
+    "@types/react": "17.0.47",
     "eslint": "8.17.0",
     "eslint-config-next": "11.1.4",
     "eslint-config-prettier": "8.5.0",
